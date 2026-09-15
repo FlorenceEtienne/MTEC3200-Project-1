@@ -2,7 +2,7 @@
 
 | # | Moment | WHAT | HOW | WHY |
 |---|---|---|---|---|
-| 1 | I'll be doing a task on my laptop then my kitten would run up to me and start biting on things. | Frustrates me whenever he starts to bite on the items surrounding me. | Learning to observe and hunt by biting things. | Playing with and petting my kitten made him grown attached to me. |
+| 1 | I'll be doing a task on my laptop then my kitten would run up to me and start biting on things. | Learning to observe and hunt by biting things. | Frustrates me whenever he starts to bite on the items surrounding me. | Playing with and petting my kitten made him grown attached to me. |
 | 2 | When I am laying down and watching a video, my kitten would be watch everything happening then starts swiping at the screen. | He would see me move my mouse constantly or I move around shifty | This is sweet until he starts to sit on my keyboard. | Checking what is moving or laying around him. |
 | 3 | Everytime I move my charger towards my laptop, my kitten would swat at it until I plug the charger into the laptop. | I would lift it slightly over or around him. | I'll become more caution to not make him uncomfortable when I attempt to nudge him over. | The way I lift my charger looks like a worm or snake. |
 
