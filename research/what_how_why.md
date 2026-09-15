@@ -15,7 +15,7 @@ The second row specifically surprised me the most whenever he would mess with th
 
 ### 2. If you could only fix one of these three, which would change your day the most? 
 
-I believe the second row is what I would choose because if I keep him entertained than keep playing with him then he would be more relaxed.
+I believe the first row is what I would choose because if I keep him entertained than keep playing with him then he would be more relaxed.
 
 ### 3. Do any two rows share a similar WHY?
 
