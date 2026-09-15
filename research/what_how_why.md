@@ -11,7 +11,7 @@
 
 ### 1. Which WHY surprised you the most?
 
-The second row specifically surprised me the most whenever he would mess with the screen until he start biting things.
+The second row specifically surprised me the most whenever my kitten messes with the screen, giving me a short smile whenever he pokes at something moving.
 
 ### 2. If you could only fix one of these three, which would change your day the most? 
 
