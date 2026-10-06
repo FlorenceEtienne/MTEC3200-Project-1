@@ -1,12 +1,20 @@
 import type { NextConfig } from "next";
-import * as path from 'path';
 
 const nextConfig: NextConfig = {
   /* config options here */
-  // turbopack: {
-  //   // Points to the repository/monorepo root directory
-  //   root: path.resolve("cat-box", "C:/Users/Vulpes/Documents/MTEC3200-Project-1/cat-box/"), 
-  // },
+  experimental: {
+    agentFeedback: true,
+  },
+  cacheComponents: true,
+  partialPrefetching: true,
+  turbopack: {
+    rules: {
+      "*.css": {
+        loaders: ["@tailwindcss/turbopack"],
+        as: "*.css",
+      },
+    },
+  },
 };
 
 export default nextConfig;
