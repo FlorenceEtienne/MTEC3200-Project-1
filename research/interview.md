@@ -26,11 +26,3 @@ A:
 
 **Q5: Are there a lot of people surronding your pets at times or do travel with your pets to places with people?**
 A:
-
-## Synthesis
-
-Fill this in right after the interview, while it's still fresh.
-
-- **One surprising quote:**
-- **One thing you didn't expect:**
-- **What this makes you think about your problem:**
